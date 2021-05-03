@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jueviole-grace
+- 👋 Hi, I’m Akshat Gaur 
 - 👀 I’m interested in Web Development and machine learning
 - 🌱 I’m currently learning Reactjs and for Web
 
