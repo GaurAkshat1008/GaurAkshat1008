@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshat Gaur 
 - 👀 I’m interested in Web Development and machine learning
-- 🌱 I’m currently learning Reactjs and for Web
+- 🌱 I’m currently learning Reactjs 
 
 <!---
 jueviole-grace/jueviole-grace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
