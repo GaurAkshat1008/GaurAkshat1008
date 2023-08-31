@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akshat Gaur</h1>
 <h3 align="center">I am a pre final year student of Indian Institute of Information Technology, Surat passionate about web development and machine learning.</h3>
 
+<p align="left"> ![](https://komarev.com/ghpvc/?username=GaurAkshat1008&color=green) </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GaurAkshat1008" alt="GaurAkshat1008" /></a> </p>
 
 - 🔭 I’m currently working on [ThriftBazaar](https://github.com/jueviole-grace/ThriftBazaar)
