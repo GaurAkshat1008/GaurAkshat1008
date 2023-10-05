@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GaurAkshat1008" alt="GaurAkshat1008" /></a> </p>
 
-- 🔭 I’m currently working on [ThriftBazaar](https://github.com/jueviole-grace/ThriftBazaar)
+- 🔭 I’m currently working on [StudyNest](https://github.com/jueviole-grace/StudyNest)
 
 - 🌱 I’m currently learning **Solidty, and other web3.0 tech...**
 
